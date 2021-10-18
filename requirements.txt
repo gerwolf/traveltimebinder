@@ -55,3 +55,4 @@ plotly==5.3.1
 ply==3.11
 pycosat==0.6.3
 pycountry==19.8.18
+statsmodels==0.12.2
